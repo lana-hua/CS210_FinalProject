@@ -26,6 +26,8 @@ $~$
 2.Running the Prediction Notebook
    - Open and execute the Final_Project.ipynb Jupyter Noterbook cell by cell to train and evaluate the model.
 
+Note: The sql code and the model may take some time to run 
+
 $~$
 
 ## *Video Demo*
