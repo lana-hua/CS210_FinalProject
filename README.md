@@ -1,8 +1,8 @@
 # *Relationship Between Consumerism, Sustainability, and Global Warming*
 
 This project aims to observe the sustainability of countries around the world
-using datasets from Kaggle and our world dataset website. We will do this by focusing on the productino of Milk, Meat, Coffee, and overall Co2 emissions.
-The model will help idenity which country needs to improve their preventative measures.
+using datasets from Kaggle and our world dataset website. We will do this by focusing on the production of Milk, Meat, Coffee, and overall Co2 emissions.
+The model will help identify which country needs to improve their preventative measures.
 
 $~$
 
